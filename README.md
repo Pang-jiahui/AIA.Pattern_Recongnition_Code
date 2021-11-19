@@ -1,1 +1,2 @@
-# AIA.Pattern_Recogintion_Code
+# 华中科技大学人工智能与自动化学院模式识别与机器学习课程代码
+
